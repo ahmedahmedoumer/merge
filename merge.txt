@@ -1,2 +1,3 @@
 
     this is merge.txt file
+      this file is modified by branch1
